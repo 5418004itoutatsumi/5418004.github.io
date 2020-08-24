@@ -1,0 +1,141 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+a {
+    text-decoration: none;
+  }
+
+  ul{
+      list-style: none;
+  }
+
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+    background-color: rgba(250, 253, 67, 0.404);
+  }
+
+.team{
+    height: 100px;
+    background-color: rgb(47, 77, 77);
+    text-align: center;
+    font-size: 30px;
+}
+
+.team h1{
+    color:white;
+}
+
+.tag{
+    height:65px;
+    width:100%;
+    background-color: rgb(236, 114, 140);
+}
+
+.tag a{
+    line-height: 65px;
+    width:28%;
+    font-size:30px;
+    margin:0 30px;
+    text-align: center;
+    color: white;
+    display: block;
+    float: left;
+    transition: all 0.5s;
+  }
+
+  .tag a:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+
+.expletion{
+    padding:0px 17%;
+    margin-top: 100px;
+}
+
+.expletion h1{
+    color:rgb(109, 109, 109);
+    border-bottom: 3px solid rgb(200, 204, 245);
+}
+
+.contents{
+    background-color: #ffffff;
+    border-radius: 20%;
+    margin-top:10px;
+    
+}
+
+.text{
+    letter-spacing:7px;
+    line-height:2em;
+    font-size: 20px;
+    
+    
+    padding:23px 35px 22px 50px;
+    
+}
+
+.images{
+    height:300px;
+    width: 400px;
+   
+}
+
+.img-tx{
+    margin-left:30px;
+}
+
+.img-tx2{
+    margin-left:500px;
+    margin-top:-315px;
+}
+
+.te{
+    margin-top:-15px;
+    margin-left:90px;
+}
+
+.content-dl{
+   
+        background-color: #ffffff;
+        border-radius: 20%;
+        margin-top:10px;
+        height:300px;
+        margin-bottom:100px;
+}
+
+.game-link{
+    text-align: center;
+    padding-top:100px;
+}
+
+.game-link a{
+    font-size:50px;
+}
+
+footer{
+    height:250px;
+    background-color: rgb(47, 77, 77);
+}
+
+.return-top{
+    color:white;
+    font-size:50px;
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+}
+.return-page{
+    color:white;
+    font-size:50px;
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+  }
+.ms{
+    color:white;
+    text-align:center;
+    margin-top:30px;
+}
